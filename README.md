@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm srilekha</h1>
-<h3 align="center">Data Analyst/engineer</h3>
+<h3 align="center">Data Analyst/Database Analyst/ML Engineer </h3>
 
-- 🌱 I’m currently learning **Hadoop,SAS, Saprk**
+- 🌱 I’m currently learning **Hadoop,Spark**
 
 - 💬 Ask me about **R, Python, MS SQL SERVER, Tableau, MS-Power BI**
 
